@@ -1,0 +1,17 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.instagram_wrapper {
+  display: flex;
+}
+
+.instagram_wrapper .phone_mockup {
+  width: 50%;
+}
+
+.login_area {
+  width: 50%;
+}
