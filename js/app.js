@@ -88,6 +88,5 @@ const handleClick = (event) => {
   event.preventDefault()
   const userInput = document.querySelector('.userInput');
   const userValue = userInput.value;
-  console.log(`userValue`, userValue)
   return alert `Olá, você acabou de fazer login`
 }
